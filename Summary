@@ -1,0 +1,4 @@
+Created a Snake Game in JavaScript by following FreeCodeCamp's tutorial.
+First, we set up our HTML to deploy our game.
+Second, we used CSS to style the game components to give it a retro look.
+Third, we used JavaScript to build the game logic to allow the snake to move and gain speed as the game progresses. 
